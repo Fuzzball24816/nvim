@@ -9,6 +9,7 @@ return {
       function()
         require("sg.extensions.telescope").fuzzy_search_results()
       end,
+      desc = "Search Sourcegraph",
     },
   },
 }
